@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\bin\Debug\SecimPartisiProjesi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\bin\Debug\SecimPartisiProjesi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\bin\Debug\SecimPartisiProjesi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.FrmOyGiris.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.FrmGrafikler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C# Projeler\SecimPartisiProjesi\obj\Debug\SecimPartisiProjesi.pdb
